@@ -1,8 +1,8 @@
 ### Hi there 👋 
 ### Data Anggota Tim 
-* auziah mumtaz
-* melisa galuh parwati
-* rafharum fatimah
+* Auziah mumtaz
+* Melisa galuh parwati
+* Rafharum fatimah
 
 <!--
 **Mel12isa00/Mel12isa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,6 +60,8 @@ solution for this problem is create an application with my sql, API, Python and 
 
 <!-- FLOWCHART -->
 ## Flowchart
+
+![image.jpg]( {https://drive.google.com/file/d/1--5kiUDnhFbfpyT_0bZZLKsUmuoOX7mB/view?usp=drivesdk} )
 
 
 
